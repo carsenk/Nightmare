@@ -1,0 +1,9 @@
+Building Nightmare
+
+See doc/readme-qt.rst for instructions on building Nightmare QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nightmare.
+
+See doc/build-*.txt for instructions on building nightmared,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nightmare.
