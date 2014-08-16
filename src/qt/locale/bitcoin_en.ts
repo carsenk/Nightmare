@@ -1688,8 +1688,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 SDC</source>
-        <translation type="unfinished">123.456 SDC {0.00 ?}</translation>
+        <source>0.00 NM</source>
+        <translation type="unfinished">123.456 NM {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1758,8 +1758,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 SDC</source>
-        <translation>123.456 SDC</translation>
+        <source>123.456 NM</source>
+        <translation>123.456 NM</translation>
     </message>
     <message>
         <location line="+31"/>

@@ -1676,8 +1676,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 SDC</source>
-        <translation>123.456 SDC {0.00 ?}</translation>
+        <source>0.00 NM</source>
+        <translation>123.456 NM {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1746,8 +1746,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 SDC</source>
-        <translation>123.456 SDC</translation>
+        <source>123.456 NM</source>
+        <translation>123.456 NM</translation>
     </message>
     <message>
         <location line="+31"/>
